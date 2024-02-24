@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class fuelMixer 
-{
-    public static void main(String[] args) 
-    {
+public class fuelMixer {
+    public static void main(String[] args) {
         // Named constant (hint: final) for the mixture.
 
         // Variables for the adjusted mixture.
