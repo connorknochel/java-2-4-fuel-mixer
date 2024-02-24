@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class fuelMixer {
+
     public static void main(String[] args) {
         // Named constant (hint: final) for the mixture.
 
@@ -21,4 +22,5 @@ public class fuelMixer {
         // Close the program
 
     }
+    
 }
