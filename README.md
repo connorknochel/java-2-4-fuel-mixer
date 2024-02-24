@@ -6,9 +6,9 @@ Every kilogram of kerosene requires 2.56 kilograms of LOX to create the RP-1 mix
 
 Write a program that accepts an input for how much fuel we need for a test and then gives us a value for how much LOX we need and what the total weight of the propellant is once mixed.
 
-> Things you will need to pass the tests:
-> - Prompt 1: "How many kilograms of fuel are needed for the test?"
-> - Formula 1: `LOX = fuel * 2.56`
-> - Formula 2: `RP1 = LOX + fuel`
-> - Output 1: "You need `[LOX]` kilograms of oxidizer for `[fuel]` kilograms of fuel."
-> - Output 2: "The total weight of RP-1 required is `[RP1]` kilograms."
+Things you will need to pass the tests:
+ - Prompt 1: "How many kilograms of fuel are needed for the test?"
+ - Formula 1: `LOX = fuel * 2.56`
+ - Formula 2: `RP1 = LOX + fuel`
+ - Output 1: "You need `[LOX]` kilograms of oxidizer for `[fuel]` kilograms of fuel."
+ - Output 2: "The total weight of RP-1 required is `[RP1]` kilograms."
