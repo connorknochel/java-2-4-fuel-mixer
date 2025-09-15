@@ -1,5 +1,5 @@
 In the last challenge, we needed you to figure out how much fuel we needed, but we are doing some additional calculations behind the scenes that we now need your help to automate.
-    
+
 Now that we know how much fuel (Kerosene) we need for our test, we need you to figure out how much liquid oxidizer (LOX) is needed per kilogram of fuel and how much the total propellant, "Rocket Propellant 1" (RP-1) weighs.
     
 Every kilogram of kerosene requires 2.56 kilograms of LOX to create the RP-1 mixture for our rockets. Make sure that you use a constant for the ratio value named "LOX_RECIPE."
